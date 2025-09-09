@@ -2,7 +2,7 @@
 
 Ulangan Harian 9 September 2025
 
-I Haven't add CRUD function sooo yeaaa 🤭🤭
+I haven't add CRUD function sooo yeaaa 🤭🤭
 
 # 📸 Screenshot
 
